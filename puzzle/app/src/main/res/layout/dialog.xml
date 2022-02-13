@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/gray"
+    android:padding="20dp"
+    >
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gif_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/emoji"
+        android:background="@color/white"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAlignment="center"
+        android:id="@+id/text_dialog"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:textColor="@color/purple_500"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/btn_dialog"
+        android:text="@string/tryagain"
+        />
+
+</LinearLayout>

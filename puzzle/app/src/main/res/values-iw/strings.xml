@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">משחק הזיכרון</string>
+    <string name="easy">קלה</string>
+    <string name="med">בינונית</string>
+    <string name="hard">קשה</string>
+    <string name="select">בחר רמת משחק!</string>
+    <string name="welcome">ברוך הבא</string>
+    <string name="tryagain">נסה שוב!</string>
+    <string name="highscores">טבלת שיאים</string>
+    <string name="level">רמה:</string>
+    <string name="time">זמן:</string>
+    <string name="win">ניצחת!</string>
+    <string name="playagain">שחק שוב!</string>
+    <string name="lose">הפסדת!</string>
+    <string name="points">ניקוד:</string>
+</resources>

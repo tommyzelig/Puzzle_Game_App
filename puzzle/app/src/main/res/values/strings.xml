@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PuzzleGame</string>
+    <!-- levels-->
+    <string name="easy">Easy</string>
+    <string name="med">Medium</string>
+    <string name="hard">Hard</string>
+
+    <!-- other-->
+    <string name="select">Select a level to play!</string>
+
+    <!-- vesion-->
+    <string name="welcome">Welcome</string>
+    <string name="tryagain">TRY AGAIN!</string>
+    <string name="highscores">HighScores</string>
+    <string name="level">LEVEL:</string>
+    <string name="time">TIME:</string>
+    <string name="win">YOU WIN!</string>
+    <string name="playagain">Play Again!</string>
+    <string name="lose">YOU LOSE!</string>
+    <string name="points">Points:</string>
+
+</resources>
